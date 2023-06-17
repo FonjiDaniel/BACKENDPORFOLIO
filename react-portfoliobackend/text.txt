@@ -1,0 +1,14 @@
+username: fonjidaniel82
+
+
+
+
+password: Sn0Zac4HGNnEAkWk
+
+mongodb+srv://fonjidaniel82:Sn0Zac4HGNnEAkWk@reactbackendportfolio.d8qsjf2.mongodb.net/
+
+
+mongodb+srv://fonjidaniel82:Sn0Zac4HGNnEAkWk@reactbackendportfolio.d8qsjf2.mongodb.net/?retryWrites=true&w=majority
+
+
+mongodb+srv://fonjidaniel82:<password>@reactbackendportfolio.d8qsjf2.mongodb.net/?retryWrites=true&w=majority
